@@ -1,2 +1,2 @@
 # Algo
-I will implement multiple ALgorithms
+I will implement multiple algorithms
